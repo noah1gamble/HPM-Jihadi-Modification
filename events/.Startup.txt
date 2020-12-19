@@ -1,0 +1,77 @@
+#Welcoming the player - Giving "Observer" option
+country_event = {
+	id = 1999999
+	title = EVTHELLOTITLE
+	desc = EVTHELLODESC
+	major = yes
+	
+	trigger = {
+		ai = no
+		NOT = { has_global_flag = hello_player }
+	}
+	
+	mean_time_to_happen = { months = 0.0001 }
+	
+	option = {
+		name = EVTHELLOPLAY
+		set_global_flag = hello_player
+	}
+	
+	option = {
+		name = EVTHELLOOBS
+		set_global_flag = hello_player
+		2623 = {
+			owner = {
+				country_event = 1999998
+			}
+		}
+		country_event = {
+			id = 1999997
+			days = 1
+		}
+	}
+}
+country_event = {
+	id = 1999998
+	title = EVTOBSTITLE
+	desc = EVTOBSDESC
+	is_triggered_only = yes
+	
+	option = {
+		name = EVTOBSOPTA
+		2623 = {
+			secede_province = AAA
+			remove_core = THIS
+			remove_core = SCA
+			remove_core = NOR
+			change_province_name = "Observer"
+			life_rating = -100
+			add_core = AAA
+			any_pop = {
+				reduce_pop = -1
+			}
+			add_province_modifier = {
+				name = occupied
+				duration = -1
+			}
+		}
+	}
+}
+country_event = {
+	id = 1999997
+	title = EVTOBSERVER
+	desc = EVTOBSERDESC
+	is_triggered_only = yes
+	
+	option = {
+		name = EVTOBSEROPTA
+		change_tag_no_core_switch = AAA
+		AAA = {
+			ruling_party_ideology = noIdeology
+			primary_culture = noculture
+			religion = noreligion
+			remove_accepted_culture = zzz_religion_shamanist
+			#Religions? This is Observer!
+		}
+	}
+}

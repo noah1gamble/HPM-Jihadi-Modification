@@ -2,6 +2,7 @@
 
 # Special countries...
 REB     =     "countries/rebels.txt"
+AAA 	= 	  "countries/AAA.txt" # Observer
 
 ##HPM
 PNK        ="countries/Pontianak.txt"

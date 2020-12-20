@@ -5,8 +5,9 @@ religion = shiite
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
-literacy = 0.03
+literacy = 0.08
 non_state_culture_literacy = 0.01
+civilized = yes
 
 # Political reforms
 slavery = yes_slavery
@@ -31,7 +32,8 @@ school_reforms = no_schools
 conscription = four_year_draft
 debt_law = peonage
 penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = primary_culture_only
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
 border_policy = open_borders
 
 ruling_party = PER_conservative

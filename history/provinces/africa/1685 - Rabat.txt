@@ -1,5 +1,5 @@
-owner = MOR
-controller = MOR
-add_core = MOR
+owner = SPA
+controller = SPA
+add_core = SPA
 trade_goods = grain
 life_rating = 35

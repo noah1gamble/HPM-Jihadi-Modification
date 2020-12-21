@@ -1,124 +1,47 @@
-#Prussia - Sigmaringen
+
+##########################Europe##########################
+
+# Denmark-Schleswig-Holstein
+
 vassal = {
-    first = PRU
-    second = SGM
+    first = DEN
+    second = SWH
     start_date = 1836.1.1
-    end_date = 1870.1.1
+    end_date = 1864.10.30
 }
 
-#Switzerland - Neuchatel
+# England-Hanover
+
 vassal = {
-    first = SWI
-    second = NEH
+    first = ENG
+    second = HAN
     start_date = 1836.1.1
-    end_date = 1870.1.1
+    end_date = 1837.1.1
 }
 
-#Bahrain - Qatar
+# England-Ionian Islands
+
 vassal = {
-    first = BHR
-    second = QAT
+    first = ENG
+    second = ION
     start_date = 1836.1.1
-    end_date = 1868.1.1
+    end_date = 1864.1.1
 }
 
-#Persia - Mukriyan
+# Sweden-Norway
+
 vassal = {
-    first = PER
-    second = MKN
+    first = SWE
+    second = NOR
     start_date = 1836.1.1
-    end_date = 1844.1.1
+    end_date = 1905.1.1
 }
 
-#Persia - Ardalan
-vassal = {
-    first = PER
-    second = RDL
-    start_date = 1836.1.1
-    end_date = 1844.1.1
-}
 
-#Ottoman - Baban
-vassal = {
-    first = TUR
-    second = BNB
-    start_date = 1836.1.1
-    end_date = 1844.1.1
-}
+##########################America##########################
 
-#Ottoman - Bitlis
-vassal = {
-    first = TUR
-    second = BTL
-    start_date = 1836.1.1
-    end_date = 1844.1.1
-}
+# Argentine Confederation
 
-#Ottoman - Bahdinan
-vassal = {
-    first = TUR
-    second = BDN
-    start_date = 1836.1.1
-    end_date = 1844.1.1
-}
-
-#Ottoman - Bhotan
-vassal = {
-    first = TUR
-    second = BHT
-    start_date = 1836.1.1
-    end_date = 1844.1.1
-}
-
-#Netherlands-Tidore Sultanate
-vassal = {
-    first = NET
-    second = MAL
-    start_date = 1836.1.1
-    end_date = 1936.1.1
-}
-
-#Netherlands-Yogyakarta/Surakarta Sultanate
-vassal = {
-    first = NET
-    second = JAV
-    start_date = 1836.1.1
-    end_date = 1936.1.1
-}
-
-#Netherlands-Siak Sultanate
-vassal = {
-    first = NET
-    second = SAK
-    start_date = 1836.1.1
-    end_date = 1936.1.1
-}
-
-#Netherlands-Siak Sultanate
-vassal = {
-    first = NET
-    second = DJA
-    start_date = 1836.1.1
-    end_date = 1936.1.1
-}
-
-##Sokoto - Adamawa Emirate
-#vassal = {
-#    first = SOK
-#    second = ADW
-#    start_date = 1808.1.1
-#    end_date = 1936.1.1
-#}
-
-##Wadai - Baguirmi
-#vassal = {
-#    first = WAD
-#    second = BRM
-#    start_date = 1808.1.1
-#    end_date = 1936.1.1
-#}
-
-##Substates of the Argentine Confederation
 substate = {
     first = ARC
     second = ENT
@@ -133,160 +56,8 @@ substate = {
     end_date = 1936.1.1
 }
 
-# Denmark-Schleswig-Holstein
-vassal = {
-    first = DEN
-    second = SWH
-    start_date = 1836.1.1
-    end_date = 1864.10.30
-}
-
-# United Kingdom-Hanover
-vassal = {
-    first = ENG
-    second = HAN
-    start_date = 1836.1.1
-    end_date = 1837.1.1
-}
-
-# United Kingdom-Ionian Islands
-vassal = {
-    first = ENG
-    second = ION
-    start_date = 1836.1.1
-    end_date = 1864.1.1
-}
-
-# Sweden-Norway
-vassal = {
-    first = SWE
-    second = NOR
-    start_date = 1836.1.1
-    end_date = 1905.1.1
-}
-
-#Russia - Transcaucasia Namestnik
-substate = {
-    first = RUS
-    second = TCA
-    start_date = 1836.1.1
-    end_date = 1881.1.1
-}
-
-#Russia - Abkhazia
-vassal = {
-    first = RUS
-    second = ABK
-    start_date = 1836.1.1
-    end_date = 1865.1.1
-}
-
-# Ottoman Empire-Moldavia
-vassal = {
-    first = TUR
-    second = MOL
-    start_date = 1836.1.1
-    end_date = 1859.1.24    # Reunification of Wallachia and Moldavia
-}
-
-# Egypt-Hedjaz
-vassal = {
-    first = EGY
-    second = HDJ
-    start_date = 1836.1.1
-    end_date = 1840.7.1
-}
-
 ##########################India##########################
 
-# Dai Nam-Cambodia
-vassal = {
-    first = DAI
-    second = CAM
-    start_date = 1836.1.1
-    end_date = 1863.1.1
-}
 
 
 ##########################China##########################
-
-#China - Qinghai
-substate = {
-    first = QNG
-    second = XBI
-    start_date = 1836.1.1
-    end_date = 1936.1.1
-}
-
-#China - Xinjiang
-substate = {
-    first = QNG
-    second = XIN
-    start_date = 1836.1.1
-    end_date = 1936.1.1
-}
-
-#China - Kashgaria
-vassal = {
-    first = QNG
-    second = KML
-    start_date = 1836.1.1
-    end_date = 1936.1.1
-}
-
-#China - Tannu Tuva
-vassal = {
-    first = QNG
-    second = TNT
-    start_date = 1836.1.1
-    end_date = 1936.1.1
-}
-
-#China - Yunnan
-substate = {
-    first = QNG
-    second = YNN
-    start_date = 1836.1.1
-    end_date = 1936.1.1
-}
-
-#########1861
-# Siam - Cambodia
-vassal = {
-    first = SIA
-    second = CAM
-    start_date = 1861.1.1
-    end_date = 1936.1.1
-}
-
-# Siam - Champasak
-vassal = {
-    first = SIA
-    second = CHK
-    start_date = 1836.1.1
-    end_date =  1936.1.1
-}
-
-# UK - KAS
-vassal = {
-    first = ENG
-    second = KAS
-    start_date = 1861.1.1
-    end_date = 1936.1.1
-}
-
-# # OE - Romania
-# vassal = {
-    # first = TUR
-    # second = ROM
-    # start_date = 1861.1.1
-    # end_date = 1936.1.1
-# }
-
-# # OE - Hejaz
-# vassal = {
-    # first = TUR
-    # second = HDJ
-    # start_date = 1861.1.1
-    # end_date = 1936.1.1
-# }

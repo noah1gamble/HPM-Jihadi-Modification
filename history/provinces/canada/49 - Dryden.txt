@@ -1,6 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = RPL
+owner = CAN
+controller = CAN
+add_core = CAN
 add_core = MTC
 trade_goods = cattle
 life_rating = 31

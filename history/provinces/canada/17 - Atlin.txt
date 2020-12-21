@@ -1,6 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = RPL
+owner = CAN
+controller = CAN
+add_core = CAN
 trade_goods = timber
 terrain = new_world_montane_tundra
 life_rating = 31

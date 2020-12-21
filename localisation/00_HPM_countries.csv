@@ -104,6 +104,7 @@ YUG_fascist;ZBOR;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 YUG_ADJ;Yugoslav;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 SPA_absolute_monarchy;Spanish Empire;;;;;;;;;;;;;x
 AUS_absolute_monarchy;Austrian Empire;;;;;;;;;;;;;x
+AAA_theocracy;Allah;;;;;;;;;;;;;x
 AUS_fascist;Vaterl�ndische Front;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 SWI_liberal;Freisinnig-Demokratische Partei;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 GCO_communist;Partido Communista;;;;;;;;;;;;;;;;;;;;;;;;;x
@@ -185,6 +186,7 @@ CAN_liberal_1;Red Party;;;;;;;;;;;;x
 CAN_liberal_2;Liberal Party of Canada;;;;;;;;;;;;x
 DAI;Vietnam;;;;;;;;;;;;;;;;;;;;x;;;;
 DAI_communist;Viet Nam Cong san �ang;;;;;;;;;;;;x
+ENG_hms_government;England;;;;;;;;;;;;;x
 ENG_communist;Communist Party of Great Britain;;;;;;;;;;;;x
 ENG_conservative;Tory Party;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 ENG_reactionary;High Tories;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
@@ -193,6 +195,8 @@ MEX_socialist;Partido Laborista Mexicano;;;;;;;;;;;;x
 MEX_communist;Partido Socialista Obrero;;;;;;;;;;;;x
 MEX_fascist;Uni�n Nacional Sinarquista;;;;;;;;;;;;x
 NET_conservative;Anti-Revolutionaire Partij;;;;;;;;;;;;x
+NET_absolute_monarchy;Dutch Empire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+NET_prussian_constitutionalism;Dutch Empire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 HOL_socialist_1;Sociaal-Democratische Vereeniging;;;;;;;;;;;;x
 HOL_socialist_2;Sociaal-Democratische Bond;;;;;;;;;;;;x
 HOL_socialist_3;Sociaal Democratische Arbeiders Partij;;;;;;;;;;;;x
@@ -200,6 +204,7 @@ HOL_fascist;Verbond Van Actualisten;;;;;;;;;;;;x
 POR_socialist;Partido Socialista Portugu�s;;;;;;;;;;;;x
 POR_communist;Partido Comunista Portugu�s;;;;;;;;;;;;x
 RUS_fascist;All-Russian Fascist Party;;;;;;;;;;;;x
+SER_absolute_monarchy;Serbian Empire;;;;;;;;;;;;x
 SER_reactionary;Nacionalna Stranka;;;;;;;;;;;;x
 SER_communist;Srpska Socijaldemokratska Partija;;;;;;;;;;;;x
 SER_fascist;Narodna Odbrana;;;;;;;;;;;;x

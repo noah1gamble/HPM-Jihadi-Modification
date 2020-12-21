@@ -1,10 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = COL
+owner = CAN
+controller = CAN
+add_core = CAN
 trade_goods = grain
 life_rating = 31
-1861.1.1 = {
-    owner = ENG
-    controller = ENG
-    colonial = 2
-}
+

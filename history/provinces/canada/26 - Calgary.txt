@@ -1,6 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = RPL
+owner = CAN
+controller = CAN
+add_core = CAN
 colonial = 2
 add_core = MTC
 trade_goods = timber
